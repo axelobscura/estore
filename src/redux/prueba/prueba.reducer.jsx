@@ -1,4 +1,4 @@
-import PruebaActionTypes from './prueba.TYPES';
+import PruebaActionTypes from './prueba.types';
 
 const INITIAL_STATE = {
     hidden: true
