@@ -5,7 +5,9 @@ import CollectionItem from '../../components/collection-item/collection-item.com
 import './category.styles.scss';
 
 const CategoryPage = () => (
-  <div></div>
+  <div className='category'>
+    <h2>CATEGORY PAGE</h2>
+  </div>
 );
 
 export default CategoryPage;
