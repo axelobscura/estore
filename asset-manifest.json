@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/estore/static/css/main.dfdf1152.chunk.css",
-    "main.js": "/estore/static/js/main.92a950e3.chunk.js",
-    "main.js.map": "/estore/static/js/main.92a950e3.chunk.js.map",
+    "main.css": "/estore/static/css/main.e57706b1.chunk.css",
+    "main.js": "/estore/static/js/main.0ba741a1.chunk.js",
+    "main.js.map": "/estore/static/js/main.0ba741a1.chunk.js.map",
     "runtime-main.js": "/estore/static/js/runtime-main.9f199f6f.js",
     "runtime-main.js.map": "/estore/static/js/runtime-main.9f199f6f.js.map",
     "static/js/2.2bcb1bf6.chunk.js": "/estore/static/js/2.2bcb1bf6.chunk.js",
     "static/js/2.2bcb1bf6.chunk.js.map": "/estore/static/js/2.2bcb1bf6.chunk.js.map",
     "index.html": "/estore/index.html",
-    "precache-manifest.496db120efae0ba47f8cb814dc6e2bf8.js": "/estore/precache-manifest.496db120efae0ba47f8cb814dc6e2bf8.js",
+    "precache-manifest.012a126d211e2e5eb203bbef32d14873.js": "/estore/precache-manifest.012a126d211e2e5eb203bbef32d14873.js",
     "service-worker.js": "/estore/service-worker.js",
-    "static/css/main.dfdf1152.chunk.css.map": "/estore/static/css/main.dfdf1152.chunk.css.map",
+    "static/css/main.e57706b1.chunk.css.map": "/estore/static/css/main.e57706b1.chunk.css.map",
     "static/js/2.2bcb1bf6.chunk.js.LICENSE": "/estore/static/js/2.2bcb1bf6.chunk.js.LICENSE",
     "static/media/crown.ed28accb.svg": "/estore/static/media/crown.ed28accb.svg",
     "static/media/shopping-bag.30f07071.svg": "/estore/static/media/shopping-bag.30f07071.svg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.9f199f6f.js",
     "static/js/2.2bcb1bf6.chunk.js",
-    "static/css/main.dfdf1152.chunk.css",
-    "static/js/main.92a950e3.chunk.js"
+    "static/css/main.e57706b1.chunk.css",
+    "static/js/main.0ba741a1.chunk.js"
   ]
 }
