@@ -44,7 +44,7 @@ class ShopPage extends Component {
         <Route exact path={`${match.path}`} render={(props) => <CollectionPageWithSpinner isLoading={loading} {...props} />} />
         <Route 
           path={`${match.path}/:collectionId`} 
-          component={CollectionPage} 
+          render={(props) => <CollectionPageWithSpinner isLoading={loading} {...props} />} />
         />
       </div>
     );
