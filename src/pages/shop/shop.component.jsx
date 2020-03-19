@@ -15,13 +15,10 @@ const CollectionsOverviewWithSpinner = WithSpinner(CollectionsOverview);
 const CollectionPageWithSpinner = WithSpinner(CollectionPage);
 
 class ShopPage extends Component {
-
   componentDidMount(){
     const { fetchCollectionsStartAsync } = this.props;
     fetchCollectionsStartAsync();
   }
-    
-
   render(){
     const { match, isCollectionFetching} = this.props;
 
@@ -36,7 +33,6 @@ class ShopPage extends Component {
     );
   }
 };
-
 const mapStateToProps = createStructuredSelector({
   isCollectionFetching: selectIsCollectionFetching
 });
